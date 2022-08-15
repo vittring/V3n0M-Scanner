@@ -530,4 +530,3 @@ C:/wamp/logs/access.log
 ../../../../../../../../../../../../../../../opt/lampp/logs/error.log
 ../../../../../../../../../../../../../../../opt/xampp/logs/access.log
 ../../../../../../../../../../../../../../../opt/xampp/logs/error.log
-     
