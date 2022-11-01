@@ -2,9 +2,7 @@
 # Copied from https://github.com/matrix-org/matrix-bifrost/blob/develop/.github/workflows/docker-hub-release.yml
 name: "Docker Hub - Release"
 
-on:
-  release:
-    types: [published]
+on: [ push, delete, create ]
 
 env:
   DOCKER_NAMESPACE: vittring
