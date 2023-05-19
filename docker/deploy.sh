@@ -34,7 +34,7 @@ EOF
 			rm -r ./*.asc ./*.txt ./*.sig &> /dev/null
 
 		# hash Dockerfile & sign FILE
-		# ssh-keygen -Y verify -f allowed_signers -I scissortail@riseup.net -n file -s Dockerfile.sig < Dockerfile
+		# ssh-keygen -Y verify -f allowed_signers -I fbiwastaken@riseup.net -n file -s Dockerfile.sig < Dockerfile
 		ssh-keygen -Y sign -f ~/.ssh/vittring -n file Dockerfile
 		echo ""
 		gpg --default-key 41A44CD8AAEF35A48D18D4C8DAAB6E354A8BAF51 --armor --detach-sign --sign Dockerfile >/dev/null 2>&1
