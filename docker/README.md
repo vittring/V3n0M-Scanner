@@ -23,14 +23,14 @@ See the official Venom repo for [full list of features](https://github.com/v3n0m
 Pull it from [Docker Hub](https://hub.docker.com/repository/docker/vittring/venom):
 
 ```bash
-docker pull vittring/venom:yggdrasil
+docker pull vittring/venom:latest
 ```
 
 or build bleeding edge from here:
 
 ```bash
-docker build -t vittring/venom:master .
-docker run --rm -ti vittring/venom:master
+docker build -t vittring/venom:devel .
+docker run --rm -ti vittring/venom:devel
 ```
 
 That's it!
