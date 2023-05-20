@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 changes = """Negligible DOM XSS false positives;x10 faster crawling"""
 globalVariables = (
     {}

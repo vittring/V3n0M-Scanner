@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import re
 import concurrent.futures
 from urllib.parse import urlparse

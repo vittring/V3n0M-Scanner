@@ -65,7 +65,7 @@
 128.11.69.* 		# Yahoo, Inc. (NETBLK-FOUR11 #DS216 #-69 #-19)
 128.11.70.* 		# Yahoo, Inc. (NETBLK-FOUR11 #DS698 #-70 #-19)
 128.11.71.* 		# Yahoo, Inc. (NETBLK-FOUR11 #DS699 #-71 #-20)
-128.11.96.* 		# FortuneCity Ltd. 
+128.11.96.* 		# FortuneCity Ltd.
 128.36.0.0 			# Yale University (NET-YALE-NET)
 128.37.0.0 			# Army Yuma Proving Ground
 128.38.0.0 			# Naval Surface Warfare Center (NET-NSWC-NET)
@@ -253,7 +253,7 @@
 139.30.0.0 			# University of Rostock
 139.75.0.0 			# Alfred Wegener Institute for Polar and Marine Research
 139.88.0.0 			# NASA Lewis Research Center
-139.142.*.* 		# Front end portal of a security network filtering hundreds of client subscription IPs. 		
+139.142.*.* 		# Front end portal of a security network filtering hundreds of client subscription IPs.
 139.161.0.0 		# Army Information Systems Command
 139.169.0.0 		# NASA/Johnson Space Center
 139.229.0.0 		# NASA Ames Research Center
@@ -327,7 +327,7 @@
 149.251.0.0 		# Electricite de France - Direction Etudes Recherche
 149.252.0.0 		# USDOE, NV Operations Office
 149.253.0.0 		# DIRM/ITD
-149.254.*.* 		# Mercury Personal Communications, Ltd. 
+149.254.*.* 		# Mercury Personal Communications, Ltd.
 149.99.130-150.* 	# Kanadischer Provider
 145.253.*.* 		# Arcor
 149.225.*.* 		# MSN

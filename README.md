@@ -7,6 +7,7 @@
 ![os](https://img.shields.io/badge/OS-Linux,%20Windows-green.svg)
 [![pythonver](https://img.shields.io/badge/python-3.6%2B-green.svg)](https://www.python.org/downloads/release/python-3614)
 [![License: GPLV3](https://img.shields.io/badge/License-GPLv3-green.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Docker CI](https://img.shields.io/docker/cloud/automated/vittring/venom?color=gr)](https://hub.docker.com/repository/docker/vittring/venom/tags?page=1&ordering=last_updated)
 [![Docker Pulls](https://img.shields.io/docker/pulls/vittring/venom.svg)](https://hub.docker.com/r/vittring/venom/)
 [![Docker Image Size](https://img.shields.io/docker/image-size/vittring/venom.svg?sort=date)](https://hub.docker.com/r/vittring/venom/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
